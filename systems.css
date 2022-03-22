@@ -1,0 +1,12 @@
+/* Project - Vicious Cycles CSS */
+
+body {
+    width: 70%;
+    margin: 0 auto;
+    font-family:'Courier New', Courier, monospace;
+    background-color: peru;
+}
+
+ul {
+    font-style: normal;
+}
